@@ -15,8 +15,8 @@
 #include <WiFi.h>
 #include <Arduino.h>
 
-const char* ssid     = "EARTH";
-const char* password = "64EED29965148";
+const char* ssid     = "SSID";
+const char* password = "xxxxxxxxxxxxxxxxxxxxxxxx";
 String hostname = "ESP32_Oyu";
 char PageMode = 'M';
 String HtmlBuf;
